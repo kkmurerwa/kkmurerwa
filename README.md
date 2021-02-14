@@ -2,9 +2,8 @@
 ## Welcome to my Github Stats
 
 
-<img alt="Issues" src="https://img.shields.io/github/issues/xwaxes01/github-readme-stats?color=0088ff" /> <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/xwaxes01/github-readme-stats?color=0088ff" />
 
-[![Murerwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=xwaxes01&theme=gotham&count_private=true&show_icons=true)](https://github.com/xwaxes/github-readme-stats)
+[![Murerwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=xwaxes01&theme=gotham&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/xwaxes/github-readme-stats)
 
 
 ## 🧰 Most used languages
