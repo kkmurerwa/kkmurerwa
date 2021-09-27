@@ -15,7 +15,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnie-otieno/)](https://www.linkedin.com/in/kenneth-murerwa-9482b114b/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/KKMurerwa)
 
 ## Visitors
-[![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+[![Visitor Count](https://profile-counter.glitch.me/{xwaxes01}/count.svg)
 
 
 
