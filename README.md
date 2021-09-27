@@ -10,6 +10,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xwaxes01&layout=compact&theme=gotham&hide=jupyter%20notebook&langs_count=8" width="450" alt="Python" style="vertical-align:top; margin:4px; width:100%">
 
 
+## 🌱 I’m currently learning
+Golang, Swift, Jetpack Compose
+
 ## 🌎 Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnie-otieno/)](https://www.linkedin.com/in/kenneth-murerwa-9482b114b/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/KKMurerwa)
