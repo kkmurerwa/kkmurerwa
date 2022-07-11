@@ -7,7 +7,7 @@
 
 
 ## 🧰 Most used languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmurerwa&layout=compact&theme=gotham&hide=jupyter%20notebook&langs_count=12" width="150" alt="Python" style="vertical-align:top; margin:4px; width:100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmurerwa&layout=compact&theme=gotham&hide=jupyter%20notebook,css,js,html&langs_count=10" width="150" alt="Python" style="vertical-align:top; margin:4px; width:100%">
 
 
 ## 🌱 I’m currently learning
