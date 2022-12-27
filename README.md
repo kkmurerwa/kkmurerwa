@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmurerwa&layout=compact&theme=gotham&hide=jupyter%20notebook,css,js,html&langs_count=10" width="80" alt="Python" style="vertical-align:top; margin:4px; width:50%">
 
 
-## 🌱 I’m currently learning
+## 🌱 Other Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kmurerwa)](https://git.io/streak-stats)
 
 
