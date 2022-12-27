@@ -11,7 +11,9 @@
 
 
 ## 🌱 I’m currently learning
-Golang, Swift, Jetpack Compose
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kmurerwa)](https://git.io/streak-stats)
+
+
 
 ## 🌎 Connect with me
 
