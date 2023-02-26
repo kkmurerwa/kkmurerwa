@@ -17,7 +17,7 @@
 
 ## 🌎 Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenneth-murerwa-9482b114b/)](https://www.linkedin.com/in/kenneth-murerwa-9482b114b/)  [![StackOverflow Badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fhelp%2Fbadges&psig=AOvVaw2KfLezqAiRdsjVq3D7s1nG&ust=1677519494252000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDjtJ7ds_0CFQAAAAAdAAAAABAE)](https://stackoverflow.com/users/7145285/kenneth-murerwa)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenneth-murerwa-9482b114b/)](https://www.linkedin.com/in/kenneth-murerwa-9482b114b/)
 
 ## 🧔 Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{kmurerwa}/count.svg)
