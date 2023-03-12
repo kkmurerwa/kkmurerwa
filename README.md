@@ -3,15 +3,15 @@
 
 
 
-[![Murerwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmurerwa&theme=gotham&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/xwaxes/github-readme-stats)
+[![Murerwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkmurerwa&theme=gotham&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/kkmurerwa/github-readme-stats)
 
 
 ## 🧰 Most used languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmurerwa&layout=compact&theme=gotham&hide=jupyter%20notebook,css,js,html&langs_count=10" width="80" alt="Python" style="vertical-align:top; margin:4px; width:50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkmurerwa&layout=compact&theme=gotham&hide=jupyter%20notebook,css,js,html&langs_count=10" width="80" alt="Python" style="vertical-align:top; margin:4px; width:50%">
 
 
 ## 🌱 Other Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kmurerwa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kkmurerwa)](https://git.io/streak-stats)
 
 
 
