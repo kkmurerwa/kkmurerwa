@@ -11,7 +11,7 @@
 
 
 ## 🌱 Other Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kkmurerwa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=geofmureithi)](https://git.io/streak-stats)
 
 
 
